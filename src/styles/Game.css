@@ -1,0 +1,41 @@
+.btn {
+  width: 33.33%;
+}
+
+.game-layout {
+  width: 300px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.indicator--blue.fa {
+  color: blue;
+}
+
+.indicator--red.fa {
+  color: red;
+}
+
+.indicator--orange.fa {
+  color: orange;
+}
+
+.indicator--yellow.fa {
+  color: gold;
+}
+
+.indicator--green.fa {
+  color: green;
+}
+
+.indicator--cyan.fa {
+  color: #00c8fa;
+}
+
+.result {
+  font-size: 25px;
+  text-align: center;
+}
